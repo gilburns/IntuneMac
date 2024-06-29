@@ -18,14 +18,14 @@ Invalid Example:
 			<key>installation_mode</key>  
 			<string>force_installed</string>  
 			<key>override_update_url</key>  
-			**<boolean>true</boolean>**  
+			<boolean>true</boolean>  
 			<key>update_url</key>  
 			<string>https://example.com/update_url</string>  
 		</dict>  
 	</dict>
 ```  
   
-Valid plist:  
+Valid plist (Notice how the boolean is represented in a valid Mac plist):  
 ```	 <key>ExtensionSettings</key>  
 	<dict>  
 		<key>ghijklmnopabcdefghijklmnopabcdef</key>  
@@ -33,7 +33,7 @@ Valid plist:
 			<key>installation_mode</key>  
 			<string>force_installed</string>  
 			<key>override_update_url</key>  
-			**<true/>**  
+			<true/>  
 			<key>update_url</key>  
 			<string>https://example.com/update_url</string>  
 		</dict>  

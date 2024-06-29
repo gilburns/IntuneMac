@@ -32,7 +32,7 @@ Intune documentation on working with settings catalog configuration:
 [https://learn.microsoft.com/en-us/mem/intune/configuration/settings-catalog](https://learn.microsoft.com/en-us/mem/intune/configuration/settings-catalog)  
 
   
-  
+    
 For a list of the settings in the Settings Catalog, go to the IntunePMFiles / DeviceConfig GitHub repository (Covers all platforms):  
 [https://github.com/IntunePMFiles/DeviceConfig](https://github.com/IntunePMFiles/DeviceConfig)  
 

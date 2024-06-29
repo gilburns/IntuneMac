@@ -10,7 +10,7 @@ One thing to watch out for when consulting the Chrome policy key documentation i
 
 The [Extension Settings](https://chromeenterprise.google/policies/#ExtensionSettings) is a good example of this problem: (Abbreviated here for clarity)
 
-Invalid Example (for the override_update_url key):  
+Invalid Google Example (for the override_update_url key):  
 ```	<key>ExtensionSettings</key>  
 	<dict>  
 		<key>ghijklmnopabcdefghijklmnopabcdef</key>  
@@ -40,7 +40,7 @@ Valid plist (Notice how the boolean is represented in a valid Mac plist):
 	</dict>  
 ```  
 
-If you use the Google example, just be aware that they didn't proof their examples in a real world. Proceed with caution.    
+If you use the Google examples, just be aware that they didn't proof their examples in a real world. Proceed with caution.    
   
   
 Google Chrome Update Policies:  

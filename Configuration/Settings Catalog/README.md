@@ -31,7 +31,7 @@ Click the **Create** -> **Import Policy** button.
 Intune documentation on working with settings catalog configuration:  
 [https://learn.microsoft.com/en-us/mem/intune/configuration/settings-catalog](https://learn.microsoft.com/en-us/mem/intune/configuration/settings-catalog)  
 
-  
+    
 Common Tasks using the Settings Catalog:  
 [https://learn.microsoft.com/en-us/mem/intune/configuration/settings-catalog-common-features](https://learn.microsoft.com/en-us/mem/intune/configuration/settings-catalog-common-features)
     

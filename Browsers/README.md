@@ -14,19 +14,19 @@ Click the **Create** -> **New Policy** button.
 The XML files are essentially just macOS plist files with the, opening and closing key tags removed.  
 
 Opening keys:  
-<?xml version="1.0" encoding="UTF-8"?>
+`<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
+<dict>`
 
   
-Closing keys:
-</dict>
-</plist>
+Closing keys:  
+`</dict>
+</plist>`
   
 For all practical purposes, you can open a standard xml plist file and remove those sections and us it in Intune. I'm really not sure why Microsoft decided not to just support standard plist files. It really would have been easier for everyone. :-)
 
-If the plist file is in binary format, you need to convert it to xml format to use it with Intune.
+If the plist file is in binary format, you need to convert it to xml format to use it with Intune.  
 `plutil -convert xml1 /path/to/plist_file.plist`
   
 Intune documentation on working with preference files:  

@@ -1,5 +1,7 @@
 ## Managing Firefox Browser Settings
 
+There is no Settings Catalog configuration for Firefox in Intune. The **Templates -> Preference File** option works well. I have an example here. Feel free to add or subtract keys as needed.  
+  
 Firefox policies keys:  
 [https://mozilla.github.io/policy-templates/](https://mozilla.github.io/policy-templates/)
 

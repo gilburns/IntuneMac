@@ -11,7 +11,7 @@ One thing to watch out for when consulting the Chrome policy key documentation i
 The Extension Settings is a good example of this problem: (Abbreviated here for clarity)
 
 Invalid Example:  
-	`<key>ExtensionSettings</key>  
+```	<key>ExtensionSettings</key>  
 	<dict>  
 		<key>ghijklmnopabcdefghijklmnopabcdef</key>  
 		<dict>  
@@ -22,10 +22,10 @@ Invalid Example:
 			<key>update_url</key>  
 			<string>https://example.com/update_url</string>  
 		</dict>  
-	</dict>`  
+	</dict>```  
   
 Valid plist:  
-	`<key>ExtensionSettings</key>  
+```	 <key>ExtensionSettings</key>  
 	<dict>  
 		<key>ghijklmnopabcdefghijklmnopabcdef</key>  
 		<dict>  
@@ -36,7 +36,7 @@ Valid plist:
 			<key>update_url</key>  
 			<string>https://example.com/update_url</string>  
 		</dict>  
-	</dict>`  
+	</dict>```  
   
 
 Google Chrome Update Policies:  

@@ -1,0 +1,27 @@
+<key>desktopPosition</key>
+<integer>6</integer>
+<key>detailLevel</key>
+<integer>1921</integer>
+<key>diskFreeSpace</key>
+<integer>0</integer>
+<key>dropShadow</key>
+<true/>
+<key>firstRunDone</key>
+<true/>
+<key>footerText</key>
+<string>IT Email:    your_support@domain.com
+IT Phone:    +1-555-555-5555</string>
+<key>hideDockIcon</key>
+<true/>
+<key>labMode</key>
+<true/>
+<key>networkDetailLevel</key>
+<integer>8</integer>
+<key>operatingSystemVersionName</key>
+<true/>
+<key>showMenuBarExtra</key>
+<false/>
+<key>textSize</key>
+<integer>14</integer>
+<key>textTheme</key>
+<integer>1</integer>

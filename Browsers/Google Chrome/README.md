@@ -18,11 +18,12 @@ Invalid Example:
 			<key>installation_mode</key>  
 			<string>force_installed</string>  
 			<key>override_update_url</key>  
-			<boolean>true</boolean>  
+			**<boolean>true</boolean>**  
 			<key>update_url</key>  
 			<string>https://example.com/update_url</string>  
 		</dict>  
-	</dict>```  
+	</dict>
+```  
   
 Valid plist:  
 ```	 <key>ExtensionSettings</key>  
@@ -32,11 +33,12 @@ Valid plist:
 			<key>installation_mode</key>  
 			<string>force_installed</string>  
 			<key>override_update_url</key>  
-			<true/>  
+			**<true/>**  
 			<key>update_url</key>  
 			<string>https://example.com/update_url</string>  
 		</dict>  
-	</dict>```  
+	</dict>  
+```  
   
 
 Google Chrome Update Policies:  

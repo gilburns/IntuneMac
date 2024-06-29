@@ -14,10 +14,10 @@ Click the **Create** -> **New Policy** button.
 The XML files are essentially just macOS plist files with the, opening and closing key tags removed.  
 
 Opening keys:  
-`<?xml version="1.0" encoding="UTF-8"?>  
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">  
-<plist version="1.0">  
-<dict>`  
+`<?xml version="1.0" encoding="UTF-8"?>`  
+`<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">`  
+`<plist version="1.0">`  
+`<dict>`  
 
   
 Closing keys:  

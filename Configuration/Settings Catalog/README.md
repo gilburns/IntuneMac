@@ -25,11 +25,14 @@ Click the **Create** -> **Import Policy** button.
 * When you are satisfied with the settings, assign the profile to your appropriate device or user group.  
 
   
-  
+  
+  
+    
 Intune documentation on working with settings catalog configuration:  
 [https://learn.microsoft.com/en-us/mem/intune/configuration/settings-catalog](https://learn.microsoft.com/en-us/mem/intune/configuration/settings-catalog)  
 
-
+  
+  
 For a list of the settings in the Settings Catalog, go to the IntunePMFiles / DeviceConfig GitHub repository (Covers all platforms):  
 [https://github.com/IntunePMFiles/DeviceConfig](https://github.com/IntunePMFiles/DeviceConfig)  
 

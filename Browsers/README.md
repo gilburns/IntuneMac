@@ -24,9 +24,9 @@ Closing keys:
 `</dict>`  
 `</plist>`  
     
-For all practical purposes, you can open a standard xml plist file and remove those sections and us it in Intune. I'm really not sure why Microsoft decided not to just support standard plist files. It really would have been easier for everyone. :-)
+For all practical purposes, you can open a standard xml plist file and remove those sections and use it in Intune. I'm really not sure why Microsoft decided not to just support standard plist files. It really would have been easier for everyone. :-)
 
-If the plist file is in binary format, you need to convert it to xml format to use it with Intune.  
+Important Note: If the plist file is in binary format, you need to convert it to xml format to use it with Intune.  
 `plutil -convert xml1 /path/to/plist_file.plist`
   
 Intune documentation on working with preference files:  

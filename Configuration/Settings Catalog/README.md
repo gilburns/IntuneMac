@@ -11,7 +11,7 @@ Click the **Create** -> **New Policy** button.
 * Confirm all your settings are present, then click the **Next** button.  
 * Assign the profile to your appropriate device or user group.  
   
-Detailed **Settings Catalog** instructions can be found here:  
+Detailed instructions for creating **Settings Catalog** configuration can be found here:  
 [https://learn.microsoft.com/en-us/mem/intune/configuration/settings-catalog?tabs=sc-search-filter%2Csc-reporting#create-the-policy](https://learn.microsoft.com/en-us/mem/intune/configuration/settings-catalog?tabs=sc-search-filter%2Csc-reporting#create-the-policy)  
   
   

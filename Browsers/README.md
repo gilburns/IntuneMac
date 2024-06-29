@@ -4,11 +4,11 @@ Browser settings can be managed in Intune using the **Templates** -> **Preferenc
 
 Click the **Create** -> **New Policy** button.  
 
-For Profile type, select **Templates**, then select **Preference File** from the list. Then click the **Create** button.  
-Name your profile using a preferred naming standard and then click **Next**.  
-Specify the **Preference domain name**, it is important to match the exact name. Letter case matters here.  
-Select the XML preference file you want to use and click the **Next** button.  
-Assign the profile to your appropriate device or user group.  
+* For Profile type, select **Templates**, then select **Preference File** from the list. Then click the **Create** button.  
+* Name your profile using a preferred naming standard and then click **Next**.  
+* Specify the **Preference domain name**, it is important to match the exact name. Letter case matters here.  
+* Select the XML preference file you want to use and click the **Next** button.  
+* Assign the profile to your appropriate device or user group.  
   
   
   

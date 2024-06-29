@@ -1,6 +1,6 @@
 ## Managing Chrome Browser Settings
 
-It seems like it should be really trivial for Microsoft to add a Settings Catalog configuration for Google Chrome for Mac. The settings keys, for the most part are exactly the same. (After all, Edge is built on Chromium.) But, they have not added it yet. So, for now, the **Templates -> Preference File** option works well.  
+It seems like it should be really trivial for Microsoft to add a Settings Catalog configuration for Google Chrome for Mac. The settings keys, for the most part are exactly the same as Edge. (After all, Edge is built on Chromium.) But, they have not added it yet. So, for now, the **Templates -> Preference File** option works well.  
 
 
 Google Chrome policies keys:  

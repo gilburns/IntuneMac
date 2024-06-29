@@ -1,0 +1,222 @@
+<key>DefaultBrowserSettingEnabled</key>
+<false/>
+<key>EnableMemoryInfo</key>
+<true/>
+<key>ExtensionInstallForcelist</key>
+<array>
+	<string>ppnbnpeolgkicgegkbkbjmhlideopiji;https://clients2.google.com/service/update2/crx</string>
+	<string>ggjhpefgjjfobnfoldnjipclpcfbgbhl;https://clients2.google.com/service/update2/crx</string>
+</array>
+<key>HomepageIsNewTabPage</key>
+<false/>
+<key>ManagedBookmarks</key>
+<array>
+	<dict>
+		<key>toplevel_name</key>
+		<string>Company Bookmarks</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Company Intranet</string>
+		<key>url</key>
+		<string>https://intranet.yourcompany.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Microsoft MyApps</string>
+		<key>url</key>
+		<string>https://myapps.microsoft.com/?tenantId=your_company.com</string>
+	</dict>
+	<dict>
+		<key>children</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>Microsoft Office Web Portal</string>
+				<key>url</key>
+				<string>http://portal.office.com/</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Microsoft Company Portal</string>
+				<key>url</key>
+				<string>https://portal.manage.microsoft.com/</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Microsoft Excel</string>
+				<key>url</key>
+				<string>https://www.office.com/launch/excel</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Microsoft Forms</string>
+				<key>url</key>
+				<string>https://www.office.com/launch/forms</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Microsoft Lists</string>
+				<key>url</key>
+				<string>https://www.office.com/launch/lists</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Microsoft OneNote</string>
+				<key>url</key>
+				<string>https://www.office.com/launch/onenote</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Microsoft Outlook</string>
+				<key>url</key>
+				<string>https://outlook.office.com/owa/</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Microsoft Planner</string>
+				<key>url</key>
+				<string>https://tasks.office.com/</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Microsoft SharePoint</string>
+				<key>url</key>
+				<string>https://your_company.sharepoint.com/_layouts/15/sharepoint.aspx?</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Microsoft Stream</string>
+				<key>url</key>
+				<string>https://www.office.com/launch/stream</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Microsoft Teams</string>
+				<key>url</key>
+				<string>https://aka.ms/mstfw</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Microsoft To Do</string>
+				<key>url</key>
+				<string>https://to-do.office.com/</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Microsoft Visio</string>
+				<key>url</key>
+				<string>https://www.office.com/launch/visio</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Microsoft Word</string>
+				<key>url</key>
+				<string>https://www.office.com/launch/word</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>Microsoft Web Services</string>
+	</dict>
+	<dict>
+		<key>children</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>My Account</string>
+				<key>url</key>
+				<string>https://aka.ms/my-account</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>My Security</string>
+				<key>url</key>
+				<string>https://aka.ms/mysecurity</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>My Apps</string>
+				<key>url</key>
+				<string>https://aka.ms/myapps</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>My Groups</string>
+				<key>url</key>
+				<string>https://aka.ms/my-groups</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Self Service Password Change (Change my password)</string>
+				<key>url</key>
+				<string>https://account.activedirectory.windowsazure.com/ChangePassword.aspx</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Self Service Password Reset (Forgot my password)</string>
+				<key>url</key>
+				<string>https://aka.ms/sspr</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>Microsoft User Portals</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Apple</string>
+		<key>url</key>
+		<string>https://apple.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Atlassian Cloud</string>
+		<key>url</key>
+		<string>https://atlassian.net/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>GrubHub</string>
+		<key>url</key>
+		<string>https://grubhub.com</string>
+	</dict>
+</array>
+<key>NewTabPageManagedQuickLinks</key>
+<array>
+	<dict>
+		<key>pinned</key>
+		<true/>
+		<key>title</key>
+		<string>MyApps</string>
+		<key>url</key>
+		<string>https://myapps.microsoft.com/</string>
+	</dict>
+</array>
+<key>PasswordManagerEnabled</key>
+<false/>
+<key>RelaunchNotification</key>
+<integer>2</integer>
+<key>RelaunchNotificationPeriod</key>
+<integer>604800000</integer>
+<key>RelaunchWindow</key>
+<dict>
+	<key>entries</key>
+	<array>
+		<dict>
+			<key>duration_mins</key>
+			<integer>720</integer>
+			<key>start</key>
+			<dict>
+				<key>hour</key>
+				<integer>15</integer>
+				<key>minute</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+	</array>
+</dict>
+<key>RestoreOnStartup</key>
+<integer>5</integer>
+<key>ShowFullUrlsInAddressBar</key>
+<true/>
+<key>ShowHomeButton</key>
+<true/>

@@ -11,31 +11,31 @@ One thing to watch out for when consulting the Chrome policy key documentation i
 The Extension Settings is a good example of this problem: (Abbreviated here for clarity)
 
 Invalid Example:  
-	`<key>ExtensionSettings</key>
-	<dict>
-		<key>ghijklmnopabcdefghijklmnopabcdef</key>
-		<dict>
-			<key>installation_mode</key>
-			<string>force_installed</string>
-			<key>override_update_url</key>
-			<boolean>true</boolean>
-			<key>update_url</key>
-			<string>https://example.com/update_url</string>
-		</dict>
-	</dict>`
-
+	`<key>ExtensionSettings</key>  
+	<dict>  
+		<key>ghijklmnopabcdefghijklmnopabcdef</key>  
+		<dict>  
+			<key>installation_mode</key>  
+			<string>force_installed</string>  
+			<key>override_update_url</key>  
+			<boolean>true</boolean>  
+			<key>update_url</key>  
+			<string>https://example.com/update_url</string>  
+		</dict>  
+	</dict>`  
+  
 Valid plist:  
-	`<key>ExtensionSettings</key>
-	<dict>
-		<key>ghijklmnopabcdefghijklmnopabcdef</key>
-		<dict>
-			<key>installation_mode</key>
-			<string>force_installed</string>
-			<key>override_update_url</key>
-			<true/>
-			<key>update_url</key>
-			<string>https://example.com/update_url</string>
-		</dict>
+	`<key>ExtensionSettings</key>  
+	<dict>  
+		<key>ghijklmnopabcdefghijklmnopabcdef</key>  
+		<dict>  
+			<key>installation_mode</key>  
+			<string>force_installed</string>  
+			<key>override_update_url</key>  
+			<true/>  
+			<key>update_url</key>  
+			<string>https://example.com/update_url</string>  
+		</dict>  
 	</dict>`  
   
 

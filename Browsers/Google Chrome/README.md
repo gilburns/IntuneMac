@@ -10,7 +10,7 @@ One thing to watch out for when consulting the Chrome policy key documentation i
 
 The [Extension Settings](https://chromeenterprise.google/policies/#ExtensionSettings) is a good example of this problem: (Abbreviated here for clarity)
 
-Invalid Example:  
+Invalid Example (for the override_update_url key):  
 ```	<key>ExtensionSettings</key>  
 	<dict>  
 		<key>ghijklmnopabcdefghijklmnopabcdef</key>  

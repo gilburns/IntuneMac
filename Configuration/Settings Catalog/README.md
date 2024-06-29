@@ -23,4 +23,10 @@ Click the **Create** -> **Import Policy** button.
   
   
 Intune documentation on working with settings catalog configuration:  
-[https://learn.microsoft.com/en-us/mem/intune/configuration/settings-catalog?tabs=sc-search-filter%2Csc-reporting](https://learn.microsoft.com/en-us/mem/intune/configuration/settings-catalog?tabs=sc-search-filter%2Csc-reporting)  
+[https://learn.microsoft.com/en-us/mem/intune/configuration/settings-catalog](https://learn.microsoft.com/en-us/mem/intune/configuration/settings-catalog)  
+
+
+Intune documented Settings File keys (Covers all platforms):  
+[https://github.com/IntunePMFiles/DeviceConfig](https://github.com/IntunePMFiles/DeviceConfig)  
+
+Download the most recent Excel file and filter the list to see the platform(s) that you are interested in.  

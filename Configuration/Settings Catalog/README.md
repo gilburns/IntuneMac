@@ -33,7 +33,7 @@ Intune documentation on working with settings catalog configuration:
 
     
 Common Tasks using the Settings Catalog:  
-[https://learn.microsoft.com/en-us/mem/intune/configuration/settings-catalog-common-features](https://learn.microsoft.com/en-us/mem/intune/configuration/settings-catalog-common-features)
+[https://learn.microsoft.com/en-us/mem/intune/configuration/settings-catalog-common-features](https://learn.microsoft.com/en-us/mem/intune/configuration/settings-catalog-common-features)  
     
 For a list of the settings in the Settings Catalog, go to the IntunePMFiles / DeviceConfig GitHub repository (Covers all platforms):  
 [https://github.com/IntunePMFiles/DeviceConfig](https://github.com/IntunePMFiles/DeviceConfig)  

@@ -39,8 +39,10 @@ Valid plist (Notice how the boolean is represented in a valid Mac plist):
 		</dict>  
 	</dict>  
 ```  
-  
 
+If you use the Google example, just be aware that they didn't proof their examples in a real world. Proceed with caution.    
+  
+  
 Google Chrome Update Policies:  
 [https://support.google.com/chrome/a/answer/7591084?hl=en&ref_topic=9023245&sjid=1363281359496227844-NC](https://support.google.com/chrome/a/answer/7591084?hl=en&ref_topic=9023245&sjid=1363281359496227844-NC)
 

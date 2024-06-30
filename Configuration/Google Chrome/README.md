@@ -53,7 +53,7 @@ Mac documentation:
 [https://support.google.com/chrome/a/topic/7590800?sjid=1363281359496227844-NC](https://support.google.com/chrome/a/topic/7590800?sjid=1363281359496227844-NC)
 
 Review MDM settings applied to the Chrome browser:  
-[chrome://policy/](chrome://policy/)
+[chrome://policy](chrome://policy)
 
 Intune documentation on working with preference files:  
 [https://learn.microsoft.com/en-us/mem/intune/configuration/preference-file-settings-macos](https://learn.microsoft.com/en-us/mem/intune/configuration/preference-file-settings-macos)

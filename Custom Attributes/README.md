@@ -6,7 +6,7 @@ Details:
 * The shell script must echo the attribute to be reported.  
 * The data type of the output must match the data type of attribute in the custom attribute profile.  
 * The result returned by the shell script must be 20KB or less.  
-* Supported data types
+* Supported data types:
 	- String
 	- Integer
 	- Date

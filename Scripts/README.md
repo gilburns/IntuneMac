@@ -22,7 +22,7 @@ Script Details:
 ![Scripts](https://github.com/gilburns/IntuneMac/blob/main/Scripts/Script%20additional%20settings.png "Add Scripts")    
     
     
-Script Settings:  
+Script Setting Options:  
 
 * Frequency Options:
 	- Not Configured (Run once)

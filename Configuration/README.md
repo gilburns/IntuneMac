@@ -8,3 +8,7 @@ Settings Catalog settings can be managed in Intune using the **Settings Catalog*
 The Settings Catalog files are easily exportable and importable from Intune in any browser. No fancy connection to the Graph API like most of the other configurations is required.  
 
 The Preference Files that you create and upload into Intune are also portable and sharable as XML files.	
+    
+    
+Manage your Mac configuration profiles in Intune here:
+[https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMacOsMenu/~/configuration](https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMacOsMenu/~/configuration)  

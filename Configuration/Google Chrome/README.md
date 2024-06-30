@@ -13,7 +13,7 @@ One thing to watch out for when consulting the Chrome policy key documentation i
 
 The [Extension Settings](https://chromeenterprise.google/policies/#ExtensionSettings) is a good example of this problem: (Abbreviated here for clarity)
 
-Invalid Google Example (for the override_update_url key):  
+Invalid Google Example (for the **override_update_url** key):  
 ```	<key>ExtensionSettings</key>  
 	<dict>  
 		<key>ghijklmnopabcdefghijklmnopabcdef</key>  
@@ -28,7 +28,7 @@ Invalid Google Example (for the override_update_url key):
 	</dict>
 ```  
   
-Valid plist (Notice how the boolean is represented in a valid Mac plist):  
+Valid plist (Notice how the boolean (**<true/>**) is represented in a valid Mac plist):  
 ```	 <key>ExtensionSettings</key>  
 	<dict>  
 		<key>ghijklmnopabcdefghijklmnopabcdef</key>  

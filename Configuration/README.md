@@ -9,6 +9,11 @@ The [Preference Files](https://github.com/gilburns/IntuneMac/blob/main/Configura
     
     
 The [Settings Catalog](https://github.com/gilburns/IntuneMac/blob/main/Configuration/README-Settings%20Catalog.md) files are easily exportable and importable from Intune in any browser. No fancy connection to the Graph API like most of the other configurations is required.  
+
+
+If you are migrating from another MDM platform, a quick and dirty migration option would be to simply export all the mobileconfig files from the current MDM and import them as is directly into Intune.  
+
+The [Custom](https://github.com/gilburns/IntuneMac/blob/main/Configuration/README-Custom.md) files are standard Apple mobileconfig files.    
     
         
 Manage your Mac configuration profiles in Intune here:

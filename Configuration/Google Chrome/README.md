@@ -28,7 +28,7 @@ Invalid Google Example (for the **override_update_url** key):
 	</dict>
 ```  
   
-Valid plist (Notice how the boolean (**<true/>**) is represented in a valid Mac plist):  
+Valid plist (Notice how the boolean (**\<true/\>**) is represented in a valid Mac plist):  
 ```	 <key>ExtensionSettings</key>  
 	<dict>  
 		<key>ghijklmnopabcdefghijklmnopabcdef</key>  

@@ -1,6 +1,6 @@
 # Intune scripts for macOS
 
-You can create shell scripts extend device management capabilities in Intune.   
+You can create shell scripts to extend device management capabilities in Intune.   
 
 Script Details:  
 * Shell scripts begin with #! and must be in a valid location such as #!/bin/sh or #!/usr/bin/env zsh.

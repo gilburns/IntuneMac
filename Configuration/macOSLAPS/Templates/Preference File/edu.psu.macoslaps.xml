@@ -1,0 +1,20 @@
+<key>DaysTillExpiration</key>
+<integer>30</integer>
+<key>ExclusionSets</key>
+<array>
+	<string>symbols</string>
+</array>
+<key>LocalAdminAccount</key>
+<string>your_admin_account</string>
+<key>Method</key>
+<string>Local</string>
+<key>PasswordGrouping</key>
+<integer>5</integer>
+<key>PasswordLength</key>
+<integer>14</integer>
+<key>PasswordSeparator</key>
+<string>-</string>
+<key>RemoveKeyChain</key>
+<true/>
+<key>RemovePassChars</key>
+<string>I1lLO0|B8</string>

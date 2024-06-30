@@ -1,4 +1,4 @@
-# Script for macOS
+# Intune scripts for macOS
 
 You can create custom attribute which enable you to collect custom properties from managed macOS device using shell scripts. These are functionally equivalent to Jamf Extension Attributes. (Though Intune does not support using them for dynamic groups like Jamf does. Still useful for reporting.)
   
@@ -16,7 +16,7 @@ Script Details:
     
 
 ### Add Scripts to Intune:  
-![Scripts](https://github.com/gilburns/IntuneMac/blob/main/Scripts/Add%Script.png "Add Scripts")    
+![Scripts](https://github.com/gilburns/IntuneMac/blob/main/Scripts/Add%20Script.png "Add Scripts")    
     
     
     

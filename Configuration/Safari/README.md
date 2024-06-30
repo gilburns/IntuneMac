@@ -4,6 +4,12 @@ Unfortunately, Safari policies are not well documented by Apple. You can find so
 [https://developer.apple.com](https://developer.apple.com)
 
 
+
+### Safari AutoFill managed with configuration:  
+![Safari AutoFill](https://github.com/gilburns/IntuneMac/blob/main/Configuration/Safari/Safari%20Autofill.png "Safari AutoFill")    
+    
+
+
 Setting NewTabBehavior & NewWindowBehavior:  
 [https://derflounder.wordpress.com/2013/08/16/setting-new-window-and-new-tab-behavior-in-safari/](https://derflounder.wordpress.com/2013/08/16/setting-new-window-and-new-tab-behavior-in-safari/)
   

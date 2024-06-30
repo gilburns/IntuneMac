@@ -12,7 +12,7 @@
 #| Last Update By: Joshua D. Miller - josh.miller@outlook.com
 #| Last Update Date: March 19, 2022
 #
-#
+# Adapted for Intune by: Gil Burns - gilburns@mac.com
 #------------------------------------------------------------
 
 # Path to macOSLAPS binary

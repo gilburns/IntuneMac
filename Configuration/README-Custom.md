@@ -18,7 +18,7 @@ Click the **Create** -> **New Policy** button.
 ![Import Custom File](https://github.com/gilburns/IntuneMac/blob/main/Configuration/Custom%20File%20Configuration.png "Import Custom File")    
   
   
-Intune documentation on working with preference files:  
+Intune documentation on working with custom files:  
 [https://learn.microsoft.com/en-us/mem/intune/configuration/custom-settings-macos](https://learn.microsoft.com/en-us/mem/intune/configuration/custom-settings-macos)
 
 #### Important Note!

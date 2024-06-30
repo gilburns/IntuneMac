@@ -42,7 +42,8 @@ Script Settings:
 	- 2 times
 	- 3 times
 	
-
+    
+    
 Microsoft article about Shell Scripts:  
 [https://learn.microsoft.com/en-us/mem/intune/apps/macos-shell-scripts](https://learn.microsoft.com/en-us/mem/intune/apps/macos-shell-scripts)
 

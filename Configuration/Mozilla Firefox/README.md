@@ -4,6 +4,7 @@ There is no Settings Catalog configuration for Firefox in Intune. The **Template
   
   
   
+### Managed Bookmarks included in the example:  
 ![Firefox Bookmarks](https://github.com/gilburns/IntuneMac/blob/main/Configuration/Mozilla%20Firefox/Firefox%20Bookmarks.png "Firefox Bookmarks")    
     
     

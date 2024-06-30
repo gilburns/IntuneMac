@@ -18,8 +18,31 @@ Script Details:
 ### Add Scripts to Intune:  
 ![Scripts](https://github.com/gilburns/IntuneMac/blob/main/Scripts/Add%20Script.png "Add Scripts")    
     
+### Scripts settings:  
+![Scripts](https://github.com/gilburns/IntuneMac/blob/main/Scripts/Script%20additional%20settings.png "Add Scripts")    
     
     
+Script Settings:  
+
+* Frequency Options:
+	- Not Configured (Run once)
+	- Every 15 minutes
+	- Every 30 minutes
+	- Every 1 hour
+	- Every 2 hours
+	- Every 3 hours
+	- Every 6 hours
+	- Every 12 hours
+	- Every 1 week
+	- Every 2 weeks
+
+* Retry Options:
+	- Not Configured (No retries if it fails)
+	- 1 time
+	- 2 times
+	- 3 times
+	
+
 Microsoft article about Shell Scripts:  
 [https://learn.microsoft.com/en-us/mem/intune/apps/macos-shell-scripts](https://learn.microsoft.com/en-us/mem/intune/apps/macos-shell-scripts)
 

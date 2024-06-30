@@ -5,7 +5,7 @@ Unfortunately, Safari policies are not well documented by Apple. You can find so
 
 
 
-### Safari AutoFill managed with configuration:  
+### Safari AutoFill preferences managed with configuration:  
 ![Safari AutoFill](https://github.com/gilburns/IntuneMac/blob/main/Configuration/Safari/Safari%20Autofill.png "Safari AutoFill")    
     
 

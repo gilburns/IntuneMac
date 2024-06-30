@@ -21,6 +21,7 @@ Click the **Create** -> **New Policy** button.
 Intune documentation on working with preference files:  
 [https://learn.microsoft.com/en-us/mem/intune/configuration/custom-settings-macos](https://learn.microsoft.com/en-us/mem/intune/configuration/custom-settings-macos)
 
+#### Important Note!
 To use a mobileconfig file that was exported from Jamf or some other MDM vendor, you must remove the certificate signing before you can import the file into Intune:  
     
 Remove signing:  

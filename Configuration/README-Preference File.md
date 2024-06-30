@@ -11,6 +11,12 @@ Click the **Create** -> **New Policy** button.
 * Assign the profile to your appropriate device or user group.  
   
   
+  
+### Intune Templates -> Preference File import example:  
+![Import Preference File](https://github.com/gilburns/IntuneMac/blob/main/Configuration/Preference%20File%20Configuration.png "Import Preference File")    
+  
+    
+      
 The XML files are essentially just macOS plist files with the, opening and closing key tags removed.  
 
 Opening keys:  

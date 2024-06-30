@@ -10,7 +10,10 @@ Because of the way Intune collects custom attributes and runs script. I thought 
 
 Otherwise I believe it might get into a situation where the LAPS password was collected into inventory and then the separate rotation script would run shortly after and possibly have the password unknown until the next inventory collection.  
 
-So the [macOSLAPS - Current Password](https://github.com/gilburns/IntuneMac/blob/main/Custom%20Attributes/macOSLAPS/macOSLAPS%20-%20Current%20Password.sh) script will start rotation if it hasn't started yet, update the password if it has reached the time to rotate, or simply collect the password if that is all that needs to happen. It also leaves a separate file behind for the [macOSLAPS - Password Expiration Date](https://github.com/gilburns/IntuneMac/blob/main/Custom%20Attributes/macOSLAPS/macOSLAPS%20-%20Password%20Expiration%20Date.sh) script to capture the next expiration date.
+So the [macOSLAPS - Current Password](https://github.com/gilburns/IntuneMac/blob/main/Custom%20Attributes/macOSLAPS/macOSLAPS%20-%20Current%20Password.sh) script will start rotation if it hasn't started yet, update the password if it has reached the time to rotate, or simply collect the password if that is all that needs to happen. It also leaves a separate file behind for the [macOSLAPS - Password Expiration Date](https://github.com/gilburns/IntuneMac/blob/main/Custom%20Attributes/macOSLAPS/macOSLAPS%20-%20Password%20Expiration%20Date.sh) script to capture the next expiration date.  
+    
+Would this all be more secure in an Azure KeyVault or something like that? Of course it would. That also adds a lot more to the script and lift. Maybe I'll tackle that someday? For now this works and is not open to the world. It does require an assigned or PIM'd role of [Intune Administrator](https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/permissions-reference#intune-administrator) to see the values recorded in the custom attributes.
+
 
 ### Add Custom Attributes to Intune:  
 ![Custom Attributes](https://github.com/gilburns/IntuneMac/blob/main/Custom%20Attributes/Add%20Custom%20Attributes.png "Custom Attributes")    

@@ -2,6 +2,9 @@
 
 It seems like it should be really trivial for Microsoft to add a Settings Catalog configuration for Google Chrome for Mac. The settings keys, for the most part are exactly the same as Edge. (After all, Edge is built on Chromium.) But, they have not added it yet. So, for now, the **Templates -> Preference File** option works well.  
 
+### Managed Bookmarks included in the Chrome example:  
+![Chrome Bookmarks](https://github.com/gilburns/IntuneMac/blob/main/Configuration/Google%20Chrome/Google%20Chrome%20Managed%20Bookmarks.png "Chrome Bookmarks")    
+
 
 Google Chrome policies keys:  
 [https://chromeenterprise.google/policies/](https://chromeenterprise.google/policies/)  

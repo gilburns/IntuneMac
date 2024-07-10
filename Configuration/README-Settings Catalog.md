@@ -26,6 +26,7 @@ Click the **Create** -> **Import Policy** button.
 
   
   
+    
 Microsoft documentation on how to Import and Export a Settings Catalog profile:  
 [https://learn.microsoft.com/en-us/mem/intune/configuration/settings-catalog?tabs=sc-search-filter%2Csc-reporting#import-and-export-a-profile](https://learn.microsoft.com/en-us/mem/intune/configuration/settings-catalog?tabs=sc-search-filter%2Csc-reporting#import-and-export-a-profile)
   

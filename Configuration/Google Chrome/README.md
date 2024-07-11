@@ -46,8 +46,6 @@ Valid plist (Notice how the boolean (**\<true/\>**) is represented in a valid Ma
 If you use the Google examples, just be aware that they didn't proof their examples in a real world. Proceed with caution.    
   
   
-Google Chrome Update Policies:  
-[https://support.google.com/chrome/a/answer/7591084?hl=en&ref_topic=9023245&sjid=1363281359496227844-NC](https://support.google.com/chrome/a/answer/7591084?hl=en&ref_topic=9023245&sjid=1363281359496227844-NC)
 
 Mac documentation:  
 [https://support.google.com/chrome/a/topic/7590800?sjid=1363281359496227844-NC](https://support.google.com/chrome/a/topic/7590800?sjid=1363281359496227844-NC)

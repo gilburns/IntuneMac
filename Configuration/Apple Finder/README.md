@@ -1,6 +1,8 @@
 # Apple Finder
 
-This is a Preference File configuration for Apple Finder.
+This is a Preference File configuration for Apple Finder.  
+    
+Specify *com.apple.finder* as the preference domain name.  
 
 
 Possible values for boolean:

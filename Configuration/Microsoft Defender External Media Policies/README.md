@@ -4,6 +4,8 @@ This is a set of Preference Files configuration for Microsoft Defender.
 
 The Preference domain name should be: `com.microsoft.wdav`
 
+As of this writing, I don't believe the Settings Catalog includes the settings for external media. THe great thing is that you can use the Settings Catalog to configure the rest of the Defender settings a policy and use the Preference File for the media policies and they will be merged on the machine when applied.  
+  
 Each one provides blocking of external media, or different access to the media, via Microsoft Defender config.  
 
 If you want the default behavior to be block. Then apply only that configuration to all machines.  

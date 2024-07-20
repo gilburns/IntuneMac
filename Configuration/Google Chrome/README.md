@@ -9,6 +9,7 @@ It seems like it should be really trivial for Microsoft to add a Settings Catalo
 Google Chrome policies keys:  
 [https://chromeenterprise.google/policies/](https://chromeenterprise.google/policies/)  
 
+**Watch Out!**  
 One thing to watch out for when consulting the Chrome policy key documentation is nearly all (probably all) of the Mac plist examples contain invalid formatting and key values.  
 
 The [Extension Settings](https://chromeenterprise.google/policies/#ExtensionSettings) is a good example of this problem: (Abbreviated here for clarity)

@@ -1,0 +1,12 @@
+<key>deviceControl</key>
+<dict>
+	<key>removableMediaPolicy</key>
+	<dict>
+		<key>enforcementLevel</key>
+		<string>block</string>
+		<key>permission</key>
+		<array>
+			<string>none</string>
+		</array>
+	</dict>
+</dict>

@@ -1,0 +1,4 @@
+<key>enforcedSoftwareUpdateMinorOSDeferredInstallDelay</key>
+<integer>7</integer>
+<key>forceDelayedSoftwareUpdates</key>
+<true/>

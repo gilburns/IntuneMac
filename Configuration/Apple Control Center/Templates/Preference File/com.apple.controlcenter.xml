@@ -1,3 +1,5 @@
+<key>Battery</key>
+<integer>18</integer>
 <key>Bluetooth</key>
 <integer>18</integer>
 <key>FaceTime</key>
@@ -9,6 +11,8 @@
 <key>ScreenMirroring</key>
 <integer>18</integer>
 <key>Sound</key>
+<integer>18</integer>
+<key>TimeMachine</key>
 <integer>18</integer>
 <key>WiFi</key>
 <integer>18</integer>

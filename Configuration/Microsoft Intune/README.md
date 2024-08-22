@@ -1,6 +1,8 @@
 ## Microsoft Intune Settings
 
-Microsoft has a posted a note about [new permission](https://techcommunity.microsoft.com/t5/intune-customer-success/new-permission-prompt-to-improve-macos-notification-experience/ba-p/4195588) prompts to improve macOS notification experience for users when using shell scripts. The json file posted here can easily be imported to grant the Intune Agent the necessary permissions.  
+Microsoft has a posted a note about [new permission](https://techcommunity.microsoft.com/t5/intune-customer-success/new-permission-prompt-to-improve-macos-notification-experience/ba-p/4195588) prompts to improve macOS notification experience for users when using shell scripts. The json file posted here can easily be imported to grant the Intune Agent the necessary permissions.
+
+![Intune Agent Config](Intune%20Agent%20Config.png)  
 
 Settings Catalog settings can be managed in Intune using the **Settings Catalog** configuration.      
     

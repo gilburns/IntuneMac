@@ -67,7 +67,7 @@ passwordNotAvailable()
 startPasswordRotation()
 {
 	# Ask macOSLAPS to reset password first time
-	"$LAPS" -firstPass "MySuperS3cretPassw0rd" >/dev/null
+	"$LAPS" -firstPass 'MySuperS3cretPassw0rd' >/dev/null
 
 	CMD_RESULT=$?
 
